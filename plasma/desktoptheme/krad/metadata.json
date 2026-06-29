@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Id": "com.citronaile.krad",
+        "Name": "Krad",
+        "Description": "Krad, a dark purplish theme made for kde version of Kubuntu LTS",
+        "Version": "0.1",
+        "Website": "https://github.com/citronaile",
+        "License": "GPL-3.0-or-later",
+        "Authors": [
+            { "Name": "citronaile", "Email": "kdetheme.epiphany171@passmail.com" }
+        ]
+    },
+    "X-Plasma-MainScript": "ui/main.qml"
+}
