@@ -1,0 +1,18 @@
+<svg width="12" height="12" version="1.0" xmlns="http://www.w3.org/2000/svg">
+  <style id="current-color-scheme" type="text/css">
+    .color-scheme-window-background { color: #1a1625; }
+    .color-scheme-window-text { color: #e4dff2; }
+    .color-scheme-view-background { color: #120e1a; }
+    .color-scheme-view-text { color: #e4dff2; }
+    .color-scheme-button-background { color: #221d30; }
+    .color-scheme-button-text { color: #e4dff2; }
+    .color-scheme-selection-background { color: #7a49d6; }
+    .color-scheme-selection-text { color: #ffffff; }
+    .color-scheme-selection-hover-background { color: #a880ff; }
+    .color-scheme-active-text { color: #a880ff; }
+    .color-scheme-link-text { color: #ff9f1c; }
+  </style>
+ <g transform="translate(-551.14 -154)">
+  <rect id="center" x="551.14" y="154" width="12" height="12" fill="#212329" opacity=".4"/>
+ </g>
+</svg>
